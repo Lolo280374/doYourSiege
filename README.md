@@ -1,7 +1,10 @@
 # 🗓️ doYourSiege
 ## now on npm!
 
-<video src="https://github.com/Lolo280374/doYourSiege/raw/refs/heads/main/showcase_doyoursiege_iguess.mp4" width="600" controls></video>
+due to github limitations in markdown, I wasn't able to embed the video showcasing everything in this readme.
+<br>to check it out, [click here!!!](https://github.com/user-attachments/assets/ed62efb7-478e-401e-ade9-90e850c0e5cc)
+
+---
 
 **simple todo-list to organize your life the best way possible without ever leaving a command line!**
 <br>**saves all your data in an easy json file, so you can easily share it, edit, or save it somewhere else!**
